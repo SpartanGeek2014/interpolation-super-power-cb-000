@@ -6,4 +6,4 @@ end
 
 display_rainbow("Y")
 
-display_rainbow("O")
+display_rainbow(colors:[])
