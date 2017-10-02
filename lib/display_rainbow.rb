@@ -5,5 +5,3 @@ def display_rainbow(colors)
 end
 
 display_rainbow("R")
-
-display_rainbow
