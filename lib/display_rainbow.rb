@@ -6,4 +6,4 @@ end
 
 display_rainbow("Y")
 
-display_rainbow([0])
+display_rainbow()
