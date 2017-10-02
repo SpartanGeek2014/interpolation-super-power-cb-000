@@ -4,4 +4,4 @@ def display_rainbow(colors)
   puts "R: #{colors[4]}, O: #{colors[5]}, Y: #{colors[1]}, G: #{colors[2]}, B: #{colors[0]}, I: #{colors[3]}, V: #{colors[6]}"
 end
 
-display_rainbow([])
+display_rainbow(['blue', 'yellow', 'green', 'indigo', 'red', 'orange', 'violet'])
